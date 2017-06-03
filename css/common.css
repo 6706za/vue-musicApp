@@ -1,0 +1,5 @@
+html,body{max-width: 633px; margin: 0 auto;}
+*{margin: 0; padding: 0;}
+ul li{list-style: none; }
+.audio{height:14vh; background-color:#fafafa;}
+audio{width:100%;height:70px;}
